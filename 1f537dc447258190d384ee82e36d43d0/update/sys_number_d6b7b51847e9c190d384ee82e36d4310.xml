@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_elara_data_0_healthcare_codes">x_snc_elara_data_0_healthcare_codes</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HCD</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-04 12:38:48</sys_created_on>
+        <sys_id>d6b7b51847e9c190d384ee82e36d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HCD</sys_name>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_update_name>sys_number_d6b7b51847e9c190d384ee82e36d4310</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-04 12:38:48</sys_updated_on>
+    </sys_number>
+</record_update>

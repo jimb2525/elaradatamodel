@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nurse_id_or_npi" label="Nurse Id or NPI" language="en" table="x_snc_elara_data_0_nurse">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nurse_id_or_npi</element>
+            <help/>
+            <hint/>
+            <label>Nurse Id or NPI</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_nurse</name>
+            <plural>Nurse Id or NPIs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:48:33</sys_created_on>
+            <sys_id>765e33084721c190d384ee82e36d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nurse Id or NPI</sys_name>
+            <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_elara_data_0_nurse_nurse_id_or_npi_en</sys_update_name>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:48:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

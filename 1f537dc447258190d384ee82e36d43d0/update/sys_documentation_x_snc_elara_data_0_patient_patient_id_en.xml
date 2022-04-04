@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="patient_id" label="Patient ID" language="en" table="x_snc_elara_data_0_patient">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>patient_id</element>
+            <help/>
+            <hint/>
+            <label>Patient ID</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <plural>Patient IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:15</sys_created_on>
+            <sys_id>25a7fb8c47ed8190d384ee82e36d43fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Patient ID</sys_name>
+            <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_elara_data_0_patient_patient_id_en</sys_update_name>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

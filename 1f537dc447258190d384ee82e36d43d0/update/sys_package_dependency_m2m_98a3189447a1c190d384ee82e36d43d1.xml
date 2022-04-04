@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Model Management" source="com.snc.model">d59e4fbe47010110d384ee82e36d434f</dependency>
+        <min_version>1.0</min_version>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-04 05:21:30</sys_created_on>
+        <sys_id>98a3189447a1c190d384ee82e36d43d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-04 05:21:30</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

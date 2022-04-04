@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ethnicity" table="x_snc_elara_data_0_patient" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ethnicity</element>
+            <name>x_snc_elara_data_0_patient</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_id>eea77f8c47ed8190d384ee82e36d4355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ethnicity</sys_name>
+            <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+            <sys_update_name>sys_choice_x_snc_elara_data_0_patient_ethnicity</sys_update_name>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hispanic or Latino</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26a77f8c47ed8190d384ee82e36d4355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+            <value>hispanic_or_latino</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asian American</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaa77f8c47ed8190d384ee82e36d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+            <value>asian_american</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Black or African American</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62a77f8c47ed8190d384ee82e36d4359</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+            <value>black_or_african_american</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>White</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaa77f8c47ed8190d384ee82e36d436d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+            <value>white</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Native American</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eea77f8c47ed8190d384ee82e36d4375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:19</sys_updated_on>
+            <value>native_american</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faa77f8c47ed8190d384ee82e36d4371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:20</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ethnicity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Decline to Say</label>
+            <language>en</language>
+            <name>x_snc_elara_data_0_patient</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:19:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fea77f8c47ed8190d384ee82e36d4379</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:19:20</sys_updated_on>
+            <value>decline_to_say</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

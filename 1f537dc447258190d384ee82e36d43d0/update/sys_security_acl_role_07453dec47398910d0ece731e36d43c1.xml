@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-17 17:22:23</sys_created_on>
+        <sys_id>07453dec47398910d0ece731e36d43c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_elara_data_0_patient.x_snc_electronic_0.Administrator</sys_name>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_security_acl display_value="x_snc_elara_data_0_patient">07453dec47398910d0ece731e36d43bc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_07453dec47398910d0ece731e36d43c1</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-17 17:22:23</sys_updated_on>
+        <sys_user_role display_value="x_snc_electronic_0.Administrator" name="x_snc_electronic_0.Administrator">6615f1ec47398910d0ece731e36d43ca</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

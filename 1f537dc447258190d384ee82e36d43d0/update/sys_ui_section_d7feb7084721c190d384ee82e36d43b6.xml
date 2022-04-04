@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d7feb7084721c190d384ee82e36d43b6" sys_domain="global" table="x_snc_elara_data_0_nurse" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>fbafb3884721c190d384ee82e36d430a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nurse_id_or_npi</element>
+            <position>1</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>7fafb3884721c190d384ee82e36d430a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>prefix</element>
+            <position>2</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>ffafb3884721c190d384ee82e36d430a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>3</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>73afb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>4</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>f3afb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suffix</element>
+            <position>5</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>77afb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>6</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>f7afb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ethnicity</element>
+            <position>7</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>7bafb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>8</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>fbafb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>9</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>7fafb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>ffafb3884721c190d384ee82e36d430b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_address</element>
+            <position>11</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>73afb3884721c190d384ee82e36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>12</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>f3afb3884721c190d384ee82e36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>13</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>77afb3884721c190d384ee82e36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>14</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>f7afb3884721c190d384ee82e36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>15</position>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:54:21</sys_created_on>
+            <sys_id>7bafb3884721c190d384ee82e36d430c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_elara_data_0_nurse" sys_domain="global" view="Default view">d7feb7084721c190d384ee82e36d43b6</sys_ui_section>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:54:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_elara_data_0_nurse</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>james.belote</sys_created_by>
+            <sys_created_on>2022-02-04 03:51:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7feb7084721c190d384ee82e36d43b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_elara_data_0_nurse</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+            <sys_update_name>sys_ui_section_d7feb7084721c190d384ee82e36d43b6</sys_update_name>
+            <sys_updated_by>james.belote</sys_updated_by>
+            <sys_updated_on>2022-02-04 03:51:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
