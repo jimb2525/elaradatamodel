@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1a500a54472dc190d384ee82e36d43eb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_snc_elara_data_0_medication_product_model">
+    <x_snc_elara_data_0_medication_product_model action="INSERT_OR_UPDATE">
+        <acquisition_method/>
+        <apple_is_manufacturer>no</apple_is_manufacturer>
+        <asset_tracking_strategy>leave_to_category</asset_tracking_strategy>
+        <asset_tracking_unit display_value="Individual Unit">51a74add0f233300fee7579ac4767e59</asset_tracking_unit>
+        <barcode/>
+        <bundle>false</bundle>
+        <capex_account/>
+        <certified>false</certified>
+        <checkout_record_producer/>
+        <cmdb_ci_class/>
+        <cmdb_model_category/>
+        <comments/>
+        <depreciation/>
+        <description/>
+        <display_name>Olanzapine</display_name>
+        <enrol_in_apple>no</enrol_in_apple>
+        <expenditure_type/>
+        <expense_account/>
+        <flow_rate/>
+        <full_name/>
+        <goods_receipt_required>yes</goods_receipt_required>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <main_component/>
+        <manufacturer/>
+        <medication_form display_value="Pill">b1c93dd847e9c190d384ee82e36d4308</medication_form>
+        <medication_type display_value="Atypical Antipsychotics">ab9a391847e9c190d384ee82e36d437c</medication_type>
+        <model_number/>
+        <name>Olanzapine</name>
+        <owner/>
+        <picture/>
+        <power_consumption/>
+        <prepaid_account/>
+        <product_catalog_item/>
+        <product_category/>
+        <product_group/>
+        <product_type>good</product_type>
+        <published>false</published>
+        <purchasing_lead/>
+        <rack_units>1</rack_units>
+        <services_ack/>
+        <short_description/>
+        <sla/>
+        <sound_power/>
+        <sourcing_lead/>
+        <spend_categorization>addressable</spend_categorization>
+        <status>In Production</status>
+        <sys_class_name>x_snc_elara_data_0_medication_product_model</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-04 13:17:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a500a54472dc190d384ee82e36d43eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-04 13:17:02</sys_updated_on>
+        <type>Generic</type>
+        <weight/>
+    </x_snc_elara_data_0_medication_product_model>
+    <fx_price action="delete_multiple" query="id=1a500a54472dc190d384ee82e36d43eb"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a500a54472dc190d384ee82e36d43eb"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-04-13 01:28:46</sys_created_on>
+        <sys_id>5e7ae5c647b64950d384ee82e36d43cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_update_name>sys_metadata_link_5e7ae5c647b64950d384ee82e36d43cb</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-04-13 01:28:46</sys_updated_on>
+        <tablename>x_snc_elara_data_0_medication_product_mo</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1c3af51847e9c190d384ee82e36d43d2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_elara_data_0_healthcare_codes">
+    <x_snc_elara_data_0_healthcare_codes action="INSERT_OR_UPDATE">
+        <code>10004</code>
+        <name>Lotion</name>
+        <number>HCD0001004</number>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-04 12:49:36</sys_created_on>
+        <sys_id>1c3af51847e9c190d384ee82e36d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-04 12:49:36</sys_updated_on>
+        <type>medication_form</type>
+    </x_snc_elara_data_0_healthcare_codes>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-04-13 01:28:57</sys_created_on>
+        <sys_id>788a298647b64950d384ee82e36d431b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Lotion</sys_name>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_update_name>sys_metadata_link_788a298647b64950d384ee82e36d431b</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-04-13 01:28:57</sys_updated_on>
+        <tablename>x_snc_elara_data_0_healthcare_codes</tablename>
+    </sys_metadata_link>
+</record_update>

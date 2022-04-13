@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>bb28929047b18910d384ee82e36d43f2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_elara_data_0_patient">
+    <x_snc_elara_data_0_patient action="INSERT_OR_UPDATE">
+        <additional_comments/>
+        <date_of_birth>1989-02-16</date_of_birth>
+        <emar_monthly_template/>
+        <ethnicity>asian_american</ethnicity>
+        <first_name>Betty</first_name>
+        <gender>female</gender>
+        <home_phone/>
+        <last_name>Lewis</last_name>
+        <medication_adherence_percentage/>
+        <mobile_phone/>
+        <name>Betty Lewis</name>
+        <number>PAT0001006</number>
+        <patient_id>1004</patient_id>
+        <preferred_communication_method/>
+        <prefix/>
+        <primary_email/>
+        <secondary_email/>
+        <social_security_number>343-22-4598</social_security_number>
+        <suffix/>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-17 01:17:15</sys_created_on>
+        <sys_id>bb28929047b18910d384ee82e36d43f2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>mike.cornell</sys_updated_by>
+        <sys_updated_on>2022-04-04 04:33:22</sys_updated_on>
+        <work_notes/>
+        <work_phone/>
+    </x_snc_elara_data_0_patient>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ccccff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>download.png</file_name>
+        <hash>cfbf3a6ced279098c1c6c03c7c26ea9547917fec60ad59f60f1cb86490436cfa</hash>
+        <image_height>168</image_height>
+        <image_width>300</image_width>
+        <size_bytes>4677</size_bytes>
+        <size_compressed>4616</size_compressed>
+        <state>available</state>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-09 02:17:20</sys_created_on>
+        <sys_id>ecf5a5f6478e4150d384ee82e36d4312</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-03-09 02:17:21</sys_updated_on>
+        <table_name>x_snc_elara_data_0_patient</table_name>
+        <table_sys_id>bb28929047b18910d384ee82e36d43f2</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="download.png" sys_id="ecf5a5f6478e4150d384ee82e36d4312">ecf5a5f6478e4150d384ee82e36d4312</sys_attachment>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-09 02:17:20</sys_created_on>
+        <sys_id>20f5a5f6478e4150d384ee82e36d4313</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6144</length>
+        <position>1</position>
+        <sys_attachment display_value="download.png" sys_id="ecf5a5f6478e4150d384ee82e36d4312">ecf5a5f6478e4150d384ee82e36d4312</sys_attachment>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-03-09 02:17:20</sys_created_on>
+        <sys_id>a0f5a5f6478e4150d384ee82e36d4313</sys_id>
+    </sys_attachment_doc>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-04-13 01:28:16</sys_created_on>
+        <sys_id>f65a65c647b64950d384ee82e36d438a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Betty Lewis</sys_name>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_update_name>sys_metadata_link_f65a65c647b64950d384ee82e36d438a</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-04-13 01:28:16</sys_updated_on>
+        <tablename>x_snc_elara_data_0_patient</tablename>
+    </sys_metadata_link>
+</record_update>
