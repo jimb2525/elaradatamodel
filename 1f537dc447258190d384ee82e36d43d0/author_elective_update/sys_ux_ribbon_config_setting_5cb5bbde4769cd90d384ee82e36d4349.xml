@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting">
+    <sys_ux_ribbon_config_setting action="DELETE">
+        <active>true</active>
+        <configuration display_value="Base Agent Workspace">ce3be28bb7c82010cd8af8e32e11a9df</configuration>
+        <order>100</order>
+        <ribbon display_value="Incident - Customer 360">ef02b89d1b86b890247a86a3604bcb6c</ribbon>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_ribbon_config_setting</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-11 02:57:22</sys_created_on>
+        <sys_id>5cb5bbde4769cd90d384ee82e36d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_setting_5cb5bbde4769cd90d384ee82e36d4349</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-11 02:57:22</sys_updated_on>
+        <table>incident</table>
+        <width>5</width>
+    </sys_ux_ribbon_config_setting>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</application>
+        <file_path/>
+        <instance_id>1a6bc3f2db050510ad8dd7c8f49619b6</instance_id>
+        <instance_name>elarademo</instance_name>
+        <name>sys_ux_ribbon_config_setting_5cb5bbde4769cd90d384ee82e36d4349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting"><sys_ux_ribbon_config_setting action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Base Agent Workspace">ce3be28bb7c82010cd8af8e32e11a9df</configuration><order>100</order><ribbon display_value="Incident - Customer 360">ef02b89d1b86b890247a86a3604bcb6c</ribbon><specificity>20</specificity><sys_class_name>sys_ux_ribbon_config_setting</sys_class_name><sys_created_by>james.belote</sys_created_by><sys_created_on>2022-02-11 02:57:22</sys_created_on><sys_id>5cb5bbde4769cd90d384ee82e36d4349</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package><sys_policy/><sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope><sys_update_name>sys_ux_ribbon_config_setting_5cb5bbde4769cd90d384ee82e36d4349</sys_update_name><sys_updated_by>james.belote</sys_updated_by><sys_updated_on>2022-02-11 02:57:22</sys_updated_on><table>incident</table><width>5</width></sys_ux_ribbon_config_setting></record_update>]]></payload>
+        <payload_hash>-1050691313</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d3537dc447258190d384ee82e36d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-11 02:57:22</sys_created_on>
+        <sys_id>55c5fbde4769cd90d384ee82e36d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17ee6b6be210000001</sys_recorded_at>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-11 02:57:22</sys_updated_on>
+        <type>Ribbon Configuration Setting</type>
+        <update_guid>5dc5fbde9d69cd908e9ffdcdf0a9d59c</update_guid>
+        <update_guid_history>5dc5fbde9d69cd908e9ffdcdf0a9d59c:-1050691313</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2022-02-11 02:58:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_ribbon_config_setting">sys_ux_ribbon_config_setting</sys_db_object>
+        <sys_id>3300f6facb7c4570b4694d49f7fc07e4</sys_id>
+        <sys_metadata>5cb5bbde4769cd90d384ee82e36d4349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Elara Data Model" source="x_snc_elara_data_0">1f537dc447258190d384ee82e36d43d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Elara Data Model">1f537dc447258190d384ee82e36d43d0</sys_scope>
+        <sys_scope_delete display_value="">026889424e1644609aa3fdb3d6b6f900</sys_scope_delete>
+        <sys_update_name>sys_ux_ribbon_config_setting_5cb5bbde4769cd90d384ee82e36d4349</sys_update_name>
+        <sys_update_version display_value="sys_ux_ribbon_config_setting_5cb5bbde4769cd90d384ee82e36d4349">55c5fbde4769cd90d384ee82e36d439d</sys_update_version>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2022-02-11 02:58:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

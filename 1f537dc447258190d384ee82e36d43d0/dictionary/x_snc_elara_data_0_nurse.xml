@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Nurse" max_length="40" name="x_snc_elara_data_0_nurse" sizeclass="1" type="collection">
+        <element label="City" max_length="100" name="city" type="string"/>
+        <element label="Country" max_length="100" name="country" type="string"/>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element choice="3" label="Ethnicity" max_length="40" name="ethnicity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hispanic or Latino" sequence="10" value="hispanic_or_latino"/>
+                <element inactive_on_update="false" label="Asian American" sequence="20" value="asian_american"/>
+                <element inactive_on_update="false" label="Black or African-American" sequence="30" value="black_or_african_american"/>
+                <element inactive_on_update="false" label="White" sequence="40" value="white"/>
+                <element inactive_on_update="false" label="Native American" sequence="50" value="native_american"/>
+                <element inactive_on_update="false" label="Other" sequence="60" value="other"/>
+                <element inactive_on_update="false" label="Decline to Say" sequence="70" value="decline_to_say"/>
+            </choice>
+        </element>
+        <element label="First Name" max_length="100" name="first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="10" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="20" value="female"/>
+                <element inactive_on_update="false" label="Other" sequence="30" value="other"/>
+            </choice>
+        </element>
+        <element label="Last Name" max_length="100" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Nurse Id or NPI" max_length="100" name="nurse_id_or_npi" type="string"/>
+        <element label="Prefix" max_length="10" name="prefix" type="string"/>
+        <element label="State" max_length="100" name="state" type="string"/>
+        <element label="Street Address" max_length="255" name="street_address" type="string"/>
+        <element label="Suffix" max_length="10" name="suffix" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element label="Zip Code" max_length="40" name="zip_code" type="string"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_model" label="Medication Product Model" max_length="40" name="x_snc_elara_data_0_medication_product_model" sizeclass="2" type="collection">
+        <element label="Medication Form" max_length="32" name="medication_form" reference="x_snc_elara_data_0_healthcare_codes" reference_qual="type=medication_form^EQ" reference_qual_condition="type=medication_form^EQ" type="reference"/>
+        <element label="Medication Type" max_length="32" name="medication_type" reference="x_snc_elara_data_0_healthcare_codes" reference_qual="type=medication_type^EQ" reference_qual_condition="type=medication_type^EQ" type="reference"/>
+        <index name="index">
+            <element name="medication_form"/>
+        </index>
+        <index name="index2">
+            <element name="medication_type"/>
+        </index>
+    </element>
+</database>

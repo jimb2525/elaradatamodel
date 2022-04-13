@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Patient" max_length="40" name="x_snc_elara_data_0_patient" sizeclass="4" type="collection">
+        <element label="Additional Comments" max_length="4000" name="additional_comments" type="journal_input"/>
+        <element label="Date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="eMAR Monthly Template" max_length="40" name="emar_monthly_template" type="file_attachment"/>
+        <element choice="1" label="Ethnicity" max_length="40" name="ethnicity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hispanic or Latino" sequence="10" value="hispanic_or_latino"/>
+                <element inactive_on_update="false" label="Asian American" sequence="20" value="asian_american"/>
+                <element inactive_on_update="false" label="Black or African American" sequence="30" value="black_or_african_american"/>
+                <element inactive_on_update="false" label="White" sequence="40" value="white"/>
+                <element inactive_on_update="false" label="Native American" sequence="50" value="native_american"/>
+                <element inactive_on_update="false" label="Other" sequence="60" value="other"/>
+                <element inactive_on_update="false" label="Decline to Say" sequence="70" value="decline_to_say"/>
+            </choice>
+        </element>
+        <element label="First Name" max_length="100" name="first_name" type="string"/>
+        <element choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="10" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="20" value="female"/>
+                <element inactive_on_update="false" label="Not Disclosed" sequence="30" value="not_disclosed"/>
+                <element inactive_on_update="false" label="Other" sequence="40" value="other"/>
+            </choice>
+        </element>
+        <element label="Home Phone" max_length="40" name="home_phone" type="string"/>
+        <element label="Last Name" max_length="100" name="last_name" type="string"/>
+        <element label="Medication Adherence Percentage" max_length="10" name="medication_adherence_percentage" type="string"/>
+        <element label="Mobile Phone" max_length="40" name="mobile_phone" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;var full_name = current.first_name + ' ' + current.last_name;&#13;&#10;&#9;return full_name;  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Name" max_length="100" name="name" read_only="true" type="string" virtual="true"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Patient ID" max_length="100" name="patient_id" type="string"/>
+        <element choice="1" label="Preferred Communication Method" max_length="40" name="preferred_communication_method" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" sequence="10" value="email"/>
+                <element inactive_on_update="false" label="Text" sequence="20" value="text"/>
+                <element inactive_on_update="false" label="Phone" sequence="30" value="phone"/>
+            </choice>
+        </element>
+        <element label="Prefix" max_length="10" name="prefix" type="string"/>
+        <element label="Primary Email" max_length="100" name="primary_email" type="string"/>
+        <element label="Secondary Email" max_length="100" name="secondary_email" type="string"/>
+        <element label="Social Security Number" max_length="11" name="social_security_number" type="string"/>
+        <element label="Suffix" max_length="10" name="suffix" type="string"/>
+        <element label="Work Notes" max_length="4000" name="work_notes" type="journal_input"/>
+        <element label="Work Phone" max_length="40" name="work_phone" type="string"/>
+    </element>
+</database>

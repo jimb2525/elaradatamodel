@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Healthcare Codes" max_length="40" name="x_snc_elara_data_0_healthcare_codes" sizeclass="6" type="collection">
+        <element label="Code" max_length="40" name="code" type="string"/>
+        <element label="Name" max_length="255" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Medication Type" sequence="10" value="medication_type"/>
+                <element inactive_on_update="false" label="Medication Form" sequence="20" value="medication_form"/>
+            </choice>
+        </element>
+    </element>
+</database>
